@@ -34,7 +34,8 @@ int main()
 
     avg = average( total,5);
     percentage =percen(total ,500);
-
+ 
+  
     cout<< "Total Marks : " << total << endl ;
     cout<< "Average of Marks : "<<avg <<endl;
     cout<< "Percentage of Marks : "<<percentage <<"%"<<endl;
