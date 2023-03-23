@@ -1,6 +1,0 @@
-https://unit-3-javascript.netlify.app/
-https://unit-4-rct-101.netlify.app/
-https://unit-5-rct-201.netlify.app/
-https://unit-5a-rct-201.netlify.app/
-React By Albert : https://drive.google.com/file/d/12ZO5Y2tv90mpKwJo3F2bZbi5YvQfFmyv/view 
-Stack and Que : https://docs.google.com/document/d/1BrV0TdFuq3mWxIAYL8Fv7-yl9yaywvul/edit
