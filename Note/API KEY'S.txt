@@ -1,0 +1,5 @@
+1)YouTube Api Key:AIzaSyCyvNJoqFNYY7s_kgL3ubYeOmLzA77_sDY
+
+2)TMDB Api key:909895fe033bd38d6dfe40a6abc24697
+
+3)
