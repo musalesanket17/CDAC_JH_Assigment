@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sanke
+ *
+ */
+module LikedList {
+}
